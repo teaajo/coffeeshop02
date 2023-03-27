@@ -1,0 +1,44 @@
+{
+  "development": {
+    "username": "tea",
+    "password": "ivona",
+    "database": "CoffeeShop2",
+    "host": "localhost",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectModule": "tedious",
+    "dialectOptions": {
+      "domain": "DESKTOP-8UI5R0I\\SQLEXPRESS",
+      "encrypt": true,
+      "trustServerCertificate": true
+    }
+  },
+  "test": {
+    "username": "tea",
+    "password": "ivona",
+    "database": "CoffeeShop2",
+    "host": "localhost",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectModule": "tedious",
+    "dialectOptions": {
+      "domain": "DESKTOP-8UI5R0I\\SQLEXPRESS",
+      "encrypt": true,
+      "trustServerCertificate": true
+    }
+  },
+  "production": {
+    "username": "tea",
+    "password": "ivona",
+    "database": "CoffeeShop2",
+    "host": "localhost",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectModule": "tedious",
+    "dialectOptions": {
+      "domain": "DESKTOP-8UI5R0I\\SQLEXPRESS",
+      "encrypt": true,
+      "trustServerCertificate": true
+    }
+  }
+}
